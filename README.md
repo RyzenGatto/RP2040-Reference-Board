@@ -5,4 +5,4 @@ Download Kicad files, place into a folder, and import into KiCad. To use in your
 
 [This Github](https://github.com/ai03-2725/Type-C.pretty) has all of the files you need for USB C. It's also where the footprint for this project came from. 
 
-More info coming soon.
+The USB C port can be safely removed and sent through pins or a ribbon cable for a more compact design.
