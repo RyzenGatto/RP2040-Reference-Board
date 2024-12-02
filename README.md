@@ -8,3 +8,5 @@ Download Kicad files, place into a folder, and import into KiCad. To use in your
 The USB C port can be safely removed and sent through pins or a ribbon cable for a more compact design.
 
 If you want to use this in your own project, download the kicad files and alter the file instead of trying to import the design into a preexisting file. It saves a lot of trouble.
+
+If this is to be used in a keyboard, USB Boot can be connected to one of the keyboard keys (to ground). Otherwise, put in a push button or a way to short its pins to ground.
